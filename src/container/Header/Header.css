@@ -1,0 +1,7 @@
+.app__header {
+    background-color: var(--color-pink);
+}
+
+.app__header-img img {
+    width: 80%;
+}
