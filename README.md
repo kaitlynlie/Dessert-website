@@ -1,5 +1,6 @@
 # Bakery Website
-Website: https://sweet00th.000webhostapp.com
+Website for a bakery called Sweet Tooth
+Link: https://sweet00th.000webhostapp.com
 
 ## Getting Started with Create React App
 
