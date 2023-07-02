@@ -1,6 +1,9 @@
 # Bakery Website
 Website for a bakery called Sweet Tooth
 Link: https://sweet00th.000webhostapp.com
+![Screenshot 2023-07-02 at 15 47 08](https://github.com/kaitlynlie/dessert/assets/87097847/0c54e263-4c99-444a-80d8-f793527d886a)
+
+
 
 ## Getting Started with Create React App
 
