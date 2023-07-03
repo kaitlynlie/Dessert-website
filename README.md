@@ -1,6 +1,6 @@
 # Bakery Website
 Website for a bakery called Sweet Tooth
-![Screenshot 2023-07-02 at 15 47 08](https://github.com/kaitlynlie/dessert/assets/87097847/0c54e263-4c99-444a-80d8-f793527d886a)
+![Screenshot 2023-07-02 at 15 47 08](https://github.com/kaitlynlie/Dessert/assets/87097847/bd3408b5-0243-4219-a739-8dfb7e4d7a21)
 Link: https://sweet00th.000webhostapp.com
 
 
