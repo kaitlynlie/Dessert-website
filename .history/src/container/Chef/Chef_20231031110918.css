@@ -36,8 +36,8 @@
     width: 230px; 
 }
 
-.app__chef-signature {
-    width: 1px;
+.app__chef-signature img{
+    width: 10px;
 }
 
 @media screen and (max-width: 2000px) {
